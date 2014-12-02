@@ -8,6 +8,7 @@ using namespace std;
 int _tmain(int argc, _TCHAR* argv[])
 {
    cout << "hello world!" << endl;
+   cout << "Added by Shengxi Zhang" << endl;
 	return 0;
 }
 
