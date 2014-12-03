@@ -9,6 +9,7 @@ int _tmain(int argc, _TCHAR* argv[])
 {
    cout << "hello world!" << endl;
    cout << "Modified by Shengxi Zhang!" << endl;
+   cout << "Test code review!" << endl;
 	return 0;
 }
 
