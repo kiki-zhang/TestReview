@@ -12,6 +12,9 @@ int _tmain(int argc, _TCHAR* argv[])
    cout << "Test code review!" << endl;
    cout << "Add another line 3!" << endl;
    cout << "Who are you?" << endl;
+   cout << "Guess!" << endl;
+   cout << "haha!" << endl;
+   cout << "pr to kiki branch" << endl;
    return 0;
 }
 
